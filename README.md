@@ -12,4 +12,4 @@ This Document was built using [JsonPowerDB Pages](https://login2explore.com/jpdb
    - ***Futuristic technology***
    - ***Minimize Total cost of Ownership***
 # Screenshots
- ![this is an image](https://drive.google.com/file/d/1HRxTekmjXLhwcyd_aVu6HShVIgTnqVuU/view?usp=sharing)
+ ![Image](https://user-images.githubusercontent.com/52068788/202201790-8544c1d1-c05c-444c-887b-f4107d041f2d.png)
