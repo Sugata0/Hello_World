@@ -12,4 +12,4 @@ This Document was built using [JsonPowerDB Pages](https://login2explore.com/jpdb
    - ***Futuristic technology***
    - ***Minimize Total cost of Ownership***
 # Screenshots
- !(file:///C:/Users/Sugata%20Bhunia/Pictures/Screenshots/Screenshot_20221116_070131.png)
+ ![this is an image](file:///C:/Users/Sugata%20Bhunia/Pictures/Screenshots/Screenshot_20221116_070131.png)
